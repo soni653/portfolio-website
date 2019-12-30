@@ -1882,6 +1882,7 @@ h1 p{
 						line-height: 3em;
 						padding: 0 0.5em 0 0.5em;
 						outline: 0;
+						font-weight: bold;
 					}
 
 		@media screen and (max-width: 736px) {
